@@ -65,7 +65,7 @@ This dashboard solves these problems by offering a digital, interactive, and str
 ## 📷 Application Preview
 
 <p align="center">
-  <img src="" width="900">
+  <img src="https://github.com/SHUSHAR-14042004/Simple_Task_Dashboard/blob/main/task_dashboard-screenshot.png?raw=true" width="900">
 </p>
 
 ---
