@@ -1,70 +1,126 @@
-# Getting Started with Create React App
+# ✅ Smart Task Management Dashboard  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <b>Interactive Web Application for Personal Task Tracking & Productivity</b>
+</p>
 
-## Available Scripts
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react">
+  <img src="https://img.shields.io/badge/Project-Type%20Dashboard-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Domain-Productivity-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Storage-LocalStorage-red?style=for-the-badge">
+</p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📌 Project Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The Smart Task Management Dashboard is a responsive web application designed to help users organize, track, and manage daily tasks efficiently.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The application allows users to create, edit, delete, and filter tasks while persisting data using browser Local Storage.  
+It provides a clean and structured interface for managing task priorities, due dates, and completion status.
 
-### `npm test`
+This project demonstrates practical implementation of frontend development concepts including component-based architecture, state management, and UI design.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 💼 Problem Statement
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Managing tasks manually can lead to:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Lack of organization  
+- Missed deadlines  
+- Poor priority management  
+- No persistent task history  
+- Inefficient productivity tracking  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This dashboard solves these problems by offering a digital, interactive, and structured task management system.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🚀 Key Features
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- ➕ Add new tasks with title, description, priority, due date, and status  
+- ✏ Edit existing tasks  
+- 🗑 Delete tasks  
+- 🔍 Filter tasks by status and priority  
+- 📅 Sort tasks by due date (ascending/descending)  
+- 💾 Persistent storage using Local Storage  
+- 📊 Dashboard summary of tasks  
+- 🌙 Light/Dark mode toggle  
+- 📱 Responsive layout for different screen sizes  
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🛠 Tools & Technologies Used
 
-## Learn More
+- React.js  
+- JavaScript (ES6)  
+- HTML5  
+- CSS3  
+- Browser Local Storage  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📷 Application Preview
 
-### Code Splitting
+<p align="center">
+  <img src="" width="900">
+</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 🎯 Skills Demonstrated
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- React Component Architecture  
+- State Management using Hooks  
+- CRUD Operations  
+- UI/UX Design Principles  
+- Responsive Web Design  
+- Data Persistence using Local Storage  
+- Conditional Rendering  
+- Dynamic Filtering & Sorting  
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📊 Business Value
 
-### Advanced Configuration
+This application enables users to:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Organize daily activities effectively  
+- Improve productivity  
+- Track progress of tasks  
+- Manage priorities efficiently  
+- Maintain task history without external databases  
 
-### Deployment
+It can be extended into a full-scale task management system with backend integration.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+## ⚙ How to Run the Project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Clone the repository
+   git clone https://github.com/SHUSHAR-14042004/Simple_Task_Dashboard
+
+2. Navigate to the project folder
+  
+3. Install dependencies
+
+
+4. Start the development server
+
+
+5. Open in browser
+
+
+---
+
+## 👤 Author
+
+**Shushar U Kulal**  
+Aspiring Frontend Developer  
+React | HTML | CSS | Javascript
+
+---
+
+⭐ If you found this project useful, feel free to star the repository!
